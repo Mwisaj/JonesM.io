@@ -154,6 +154,8 @@ input,textarea{
     width: 50%;
     background-color: grey;
     color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
 input:hover{
     border-color: #ff559e;
