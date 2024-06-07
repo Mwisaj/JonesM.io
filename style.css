@@ -153,6 +153,7 @@ input,textarea{
     margin-right: 30px;
     width: 50%;
     background-color: grey;
+    color: white;
 }
 input:hover{
     border-color: #ff559e;
