@@ -38,7 +38,7 @@ h3{
 }
 .icons{
     text-align: center;
-    font-size: 60%;
+    font-size: ;
     margin-top: 30px;
 }
 img{
@@ -124,7 +124,7 @@ p1,h1,a{ font-family: "Ubuntu", sans-serif; font-weight: 320; font-style: normal
     margin-bottom: 15px;
 }
 i{
-    font-size: 60%;
+    font-size: 60px;
 }
 footer,.footer{
     border-radius: 2px;
@@ -148,10 +148,10 @@ footer,.footer{
 input,textarea{
     border-radius: 5px;
     margin: 5px;
-    height: 50%;
+    height: 20px;
     border-color:#d5bfff;
     margin-right: 30px;
-    width: 70%;
+    width: 50%;
 }
 input:hover{
     border-color: #ff559e;
