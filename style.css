@@ -45,7 +45,7 @@ img{
     height: 40%;
     max-width: 50%;
     border-radius: 500px;
-    margin-top: 18%;
+    margin-top: 10%;
     margin-bottom: 15%;
 }
 .image{
@@ -124,7 +124,7 @@ p1,h1,a{ font-family: "Ubuntu", sans-serif; font-weight: 320; font-style: normal
     margin-bottom: 15px;
 }
 i{
-    font-size: 35px;
+    font-size: 15%;
 }
 footer,.footer{
     border-radius: 2px;
@@ -148,10 +148,10 @@ footer,.footer{
 input,textarea{
     border-radius: 5px;
     margin: 5px;
-    height: 50px;
+    height: 20%;
     border-color:#d5bfff;
     margin-right: 30px;
-    width: 170px;
+    width: 5%;
 }
 input:hover{
     border-color: #ff559e;
