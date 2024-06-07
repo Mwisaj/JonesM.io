@@ -60,7 +60,7 @@ img{
     text-align: right;
     margin-top: 1px;
     position: flex;
-    padding: 30px;
+    padding: 50px;
     
 }
 .button{
@@ -148,10 +148,10 @@ footer,.footer{
 input,textarea{
     border-radius: 5px;
     margin: 5px;
-    height: 20%;
+    height: 40%;
     border-color:#d5bfff;
     margin-right: 30px;
-    width: 5%;
+    width: 20%;
 }
 input:hover{
     border-color: #ff559e;
