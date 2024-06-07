@@ -1,0 +1,182 @@
+body{
+    margin: 0px;
+    padding: 1px;
+    height: 1000px;
+}
+.header{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin: 1px;
+    padding:15px;
+    position: flex;
+    box-shadow: 10px;
+   
+}
+ul,li,a{
+  diplay: inline;
+  list-style: none;
+    
+}
+h2{
+    text-align: center;
+    font-size: 23px;
+    margin-top: 40px;
+}
+h1,h2,span{ 
+    font-size: 35px;
+    text-shadow: 30px;
+}
+p1,p4{
+    margin: 10px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding: 30px;
+   
+}
+h3{
+    color: purple;
+}
+.icons{
+    text-align: center;
+    font-size:40px;
+    margin-top: 30px;
+}
+img{
+    height: 40%;
+    max-width: 50%;
+    border-radius: 500px;
+    margin-top: 18%;
+    margin-bottom: 15%;
+}
+.image{
+    text-align: center;
+    
+}
+.buttonclick{
+    text-align: center;
+    margin: 25px;
+}
+.menu{
+    text-align: right;
+    margin-top: 1px;
+    position: flex;
+    padding: 30px;
+    
+}
+.button{
+    border-radius: 5px;
+    border-color: skyblue;
+    box-shadow: none;
+    color: white;
+    background-color: skyblue;
+    border-color: skyblue;
+    font-size: 15px;
+    height: 35px;
+    width: 80px;
+    text-decoration: none;
+    padding: 10px;
+    animation: fadeOut;
+    font-weight: bold; 
+    
+}
+.button:hover{
+    background-color: blue;
+    border-color: white;
+    color: white
+}
+.button:active{
+    color: white;
+}
+.bars{
+    color: black;  
+    background-color: none;
+    
+}
+.button1{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: 5px;
+    margin: 15px;
+    height: 20px;
+    width: 30px,
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+i:hover{
+    background-color: none;
+}
+a{
+    text-decoration: none
+}
+.button1:hover{
+    background-color: orange;
+    border-color: orange;
+    box-shadow: none;
+}
+p1,h1,a{ font-family: "Ubuntu", sans-serif; font-weight: 320; font-style: normal; }
+.skills{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+i{
+    font-size: 35px;
+}
+footer,.footer{
+    border-radius: 2px;
+    bottom: 1px;
+    position: fixed;
+    width: 100% ;
+}
+.aboutMe{
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 30px;
+}
+.messageUs{
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding:30px
+}
+input,textarea{
+    border-radius: 5px;
+    margin: 5px;
+    height: 50px;
+    border-color:#d5bfff;
+    margin-right: 30px;
+    width: 170px;
+}
+input:hover{
+    border-color: #ff559e;
+    
+}
+input:active{
+    color: #aefe15b9
+}
+.learn{
+    text-align: justify;
+    margin: 10px;
+    background-color:whitesmoke ;
+    border-radius: 5px;
+    padding:  25px;
+}
+.image1,.image2,.image3{
+    border-color:#8098ff;
+    animation: fadeOunt;
+    position: inline-block;
+    margin: 8px;
+    border: 5px;
+      
+}
+.image1,image2,image3:hover{
+   color: red;
+   
+    
+}

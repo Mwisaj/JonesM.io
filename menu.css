@@ -1,0 +1,33 @@
+body{
+    margin:0px
+    height: 100px
+}
+.header{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin: 1px;
+    padding:15px;
+    position: sticky;
+    box-shadow: 10px;
+    display: inline;
+}
+ul,li,a{
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+}
+a:hover{
+    background-color: skyblue;
+    color: blue;
+    border-radius: 5px;
+}
+a:active {
+    color: white;
+}
+h1{
+    margin-left: 45px;
+    color: gray;
+}
