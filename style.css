@@ -70,11 +70,11 @@ img{
     color: white;
     background-color: skyblue;
     border-color: skyblue;
-    font-size: 15px;
+    font-size: 35px;
     height: 35px;
     width: 80px;
     text-decoration: none;
-    padding: 10px;
+    padding: 15px;
     animation: fadeOut;
     font-weight: bold; 
     margin-bottom: 30px;
@@ -102,7 +102,7 @@ img{
     height: 20px;
     width: 30px,
     text-decoration: none;
-    padding: 10px;
+    padding: 15px;
     font-weight: bold;
 }
 i:hover{
