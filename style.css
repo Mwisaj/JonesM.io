@@ -158,6 +158,7 @@ input,textarea{
     color: black;
     font-size: 20px;
     font-weight: bold;
+    font-size: 5vh;
 }
 input:hover{
     border-color: #ff559e;
