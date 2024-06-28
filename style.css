@@ -150,12 +150,12 @@ footer,.footer{
 input,textarea{
     border-radius: 5px;
     margin: 5px;
-    height: 40px;
+    height: 50px;
     border-color:#d5bfff;
     margin-right: 30px;
-    width: 50%;
+    width: 70%;
     background-color: grey;
-    color: white;
+    color: black;
     font-size: 20px;
     font-weight: bold;
 }
