@@ -43,8 +43,8 @@ h3{
 }
 img{
     height: 40%;
-    max-width: 50%;
-    border-radius: 10vh;
+    max-width: 50vh;
+    border-radius: 20vh;
     margin-top: 10%;
     margin-bottom: 15%;
 }
