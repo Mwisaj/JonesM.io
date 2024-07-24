@@ -116,7 +116,7 @@ a{
     border-color: orange;
     box-shadow: none;
 }
-p1,h1,a{ font-family: "Ubuntu", sans-serif; font-weight: 320; font-style: normal; }
+p1,h1,a,h2{ font-family: "Ubuntu", sans-serif; font-weight: 320; font-style: normal; }
 .skills{
     background-color: whitesmoke;
     padding: 5px;
