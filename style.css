@@ -188,10 +188,12 @@ input:active{
     
 }
 .image1{
-   background-image: url("programming.jpg  ") no-repeat;
+   background-image: url("programming.jpg") no-repeat;
    
 }
 .image2{
    background-image: url(" coding.jpg  ") no-repeat;
    position: cover;
 }
+.image{
+    background-image: url("learning.jpg ") no-repeat;
