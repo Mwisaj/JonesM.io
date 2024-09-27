@@ -131,7 +131,7 @@ i{
 footer,.footer{
     border-radius: 2px;
     bottom: 1px;
-    position: fixed;
+    position: relative;
     width: 500px ;
 }
 .aboutMe{
