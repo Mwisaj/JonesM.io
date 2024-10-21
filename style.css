@@ -47,6 +47,7 @@ img{
     border-radius: 20vh;
     margin-top: 10%;
     margin-bottom: 15%;
+    clip-path: circle(50% at 50% 50)
 }
 .image{
     text-align: center;
